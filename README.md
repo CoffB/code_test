@@ -1,6 +1,3 @@
-# code_test
-Adesso kod test
-
 Using Python 3.8.2
 
 Dependencies: <br />
