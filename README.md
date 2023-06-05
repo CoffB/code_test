@@ -5,6 +5,7 @@ Dependencies: <br />
   -uvicorn <br />
   -pillow <br />
   -boto3 <br />
+  -httpx <br />
 
 ## How to run:
   Run app.py, server is running on http://localhost:5000/
@@ -25,3 +26,6 @@ Dependencies: <br />
     
    ## Logging 
    Logfile is created automatically in the working folder with the name log.log.
+   
+   ## Testing
+   Run test files for each coresponding file.
