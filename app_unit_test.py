@@ -18,7 +18,7 @@ class AppTestCase(TestCase):
     def test_resize(self):
         response = self.client.get('/resize')
         self.assertEqual(response.status_code, 200)
-        self.assertEqual(response.text, 'Resized')
+        self.assertEqual(response.text, 'Resize completed without errors')
 
 
 if __name__ == '__main__':
